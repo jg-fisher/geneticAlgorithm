@@ -70,7 +70,7 @@ def selection(individuals):
 def crossover(individuals):
 
     offspring = []
-#make to 10 if necessary ###
+    
     for _ in range((population - len(individuals)) // 2):
 
                     #randomly chooses two parents, crosses over
