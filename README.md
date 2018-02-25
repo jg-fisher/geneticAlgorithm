@@ -1,2 +1,2 @@
-# basicGeneticAlgo
-Example of a Genetic Algorithm that evolves a population of random strings to find a name. 
+# geneticAlgorithm
+Genetic Algorithm that evolves a population of random strings to find a name. 
